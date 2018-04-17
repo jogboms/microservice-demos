@@ -3,7 +3,7 @@
     "scripts": {
         "start": "micro",
         "dev": "micro-dev",
-        "ava": "ava -w test.js"
+        "test": "ava -w test.js"
     },
     "dependencies": {
         "micro": "latest"
